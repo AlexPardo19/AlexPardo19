@@ -33,7 +33,7 @@ Soy un estudiante de UPFIM apasionado por el desarrollo de software, creando int
 ---
 
 ### 📊 GitHub Stats
-*He actualizado tus tarjetas a una versión más estable para que no te marquen error.*
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlexPardo19&show_icons=true&theme=tokyonight&hide_border=true" alt="Alexis's GitHub stats" />
