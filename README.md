@@ -1,7 +1,7 @@
 # Hi 👋! I'm Alexis Raymundo Hernandez Pardo
 
 <div align="right">
-  <img src="https://media.tenor.com/Z8izBaV0_bUAAAAj/chiikawa-cute.gif" width="120" alt="Chiikawa Typing" />
+  <img src="[https://media.tenor.com/Z8izBaV0_bUAAAAj/chiikawa-cute.gif](https://tenor.com/es-419/view/usagi-gif-8658549890889288626)" width="120" alt="Chiikawa Typing" />
 </div>
 
 ### 👨‍💻 Junior Full-Stack Developer | Software Engineering Student
