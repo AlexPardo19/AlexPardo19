@@ -1,21 +1,18 @@
 # Holaaaaa Soy Alexis Raymundo Hernandez Pardo
 
-<div align="right">
-  <img src="[https://media.tenor.com/Z8izBaV0_bUAAAAj/chiikawa-cute.gif](https://tenor.com/es-419/view/usagi-gif-8658549890889288626)" width="120" alt="Chiikawa Typing" />
-</div>
 
-### 👨‍💻 Junior Full-Stack Developer | Software Engineering Student
+### Junior Full-Stack Developer | Software Engineering Student
 
-Soy un estudiante de UPFIM apasionado por el desarrollo de software, creando interfaces limpias (UI/UX) y conectándolas con bases de datos sólidas. Me encanta resolver problemas complejos y automatizar procesos a través de código.
+Soy un estudiante de UPFIM 
 
 ---
 
-### 🚀 What I'm currently working on
-- 🎓 Desarrollando el **Sistema PAT** (Programa de Acción Tutorial) para mi universidad, una aplicación web completa con roles de usuario, validaciones y generación de reportes.
-- ⚙️ Integrando APIs de terceros (pasarelas de pago como PayPal, geolocalización, traducciones) en aplicaciones web interactivas.
-- 🐍 Perfeccionando mis habilidades en el Backend construyendo APIs RESTful con **Python (Flask)** y gestión de bases de datos con **SQLite3**.
 
-### 🛠️ Tech Stack & Tools
+-  Desarrollando el **Sistema PAT** (Programa de Acción Tutorial) para mi universidad, una aplicación web completa con roles de usuario, validaciones y generación de reportes.
+- Integrando APIs de terceros (pasarelas de pago como PayPal, geolocalización, traducciones) en aplicaciones web interactivas.
+- Perfeccionando mis habilidades en el Backend construyendo APIs RESTful con **Python (Flask)** y gestión de bases de datos con **SQLite3**.
+
+### 🛠️ 
 
 **Frontend:** ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
